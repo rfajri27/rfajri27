@@ -1,5 +1,5 @@
 ###  Hi there, I'm Fajri 👋
-I'm a I am a  fresh graduate from Brawijaya University, majoring in Computational Physics.
+I'm a fresh graduate from Brawijaya University, majoring in Computational Physics.
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - 🌱 I'm currently learning about data analyze and try to build my portfolio
