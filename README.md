@@ -1,8 +1,8 @@
 ###  Hi there, I'm Fajri 👋
-I'm a Final Years Student of Computational Physics at Brawijaya University 
+I'm a I am a  fresh graduate from Brawijaya University, majoring in Computational Physics.
 
-- 👀 I’m interested in machine learning and exploring everything about data
-- 🌱 I’m currently learning about machine learning at "Bangkit Academy 2021 led by Google, Tokopedia, Gojek & Traveloka"
+- 👀 I’m interested in machine learning and enjoy exploring everything about data
+- 🌱 I'm currently learning about data analyze and try to build my portfolio
 
 
 ### Connect with me:
@@ -17,6 +17,10 @@ I'm a Final Years Student of Computational Physics at Brawijaya University
 
   <img align="left" alt="Fajri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rfajri27&show_icons=true&hide_border=true" />
 
+</details>
+
+<details>
+  
 </details>
 
 <details>
