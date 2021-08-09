@@ -19,9 +19,6 @@ I'm a fresh graduate from Brawijaya University, majoring in Computational Physic
 
 </details>
 
-<details>
-  
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
