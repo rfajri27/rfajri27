@@ -2,8 +2,10 @@
 I'm a fresh graduate from Brawijaya University, majoring in Computational Physics.
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
-- 🌱 I'm currently learning more about Data Science and try to build [my portfolio](https://rfajri27.github.io/MyPortfolio/)
+- 🔭 I'm Graduated from Bangkit 2021 Program specializing in Machine Learning.
 - ⚡ [Google Certified TensorFlow Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36492625)
+- 🌱 I'm currently learning more about Data Science and try to build [my portfolio](https://rfajri27.github.io/MyPortfolio/)
+
 
 
 ### Connect with me:
