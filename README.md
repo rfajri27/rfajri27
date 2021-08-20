@@ -9,7 +9,7 @@ I'm a fresh graduate from Brawijaya University, majoring in Computational Physic
 
 ## ⚙ My Projects
 
-- [Recommender System]()
+- [Recommender System](https://github.com/rfajri27/recommender_system)
 - [Customer Churn Prediction](https://github.com/rfajri27/customer_churn)
 - [Customer Segmentation](https://github.com/rfajri27/customer_segmentation)
 
