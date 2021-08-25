@@ -7,7 +7,7 @@ I'm a fresh graduate from Brawijaya University, majoring in Computational Physic
 - ⚡ [Google Certified TensorFlow Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36492625)
 - 🌱 I'm currently learning more about Data Science and try to build [my portfolio](https://rfajri27.github.io/MyPortfolio/)
 
-## ⚙ My Projects
+## ⚙ Latest Projects
 
 - [Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)
 - [Recommender System](https://github.com/rfajri27/recommender_system)
