@@ -14,6 +14,9 @@ I'm a fresh graduate from Brawijaya University, majoring in Computational Physic
 - [Customer Churn Prediction](https://github.com/rfajri27/customer_churn)
 - [Customer Segmentation](https://github.com/rfajri27/customer_segmentation)
 
+## 📃 Latest Articles
+- [Pengenalan Machine Learning]()
+
 ## 🔍 You Can Find Me at
 <p>
   <a href="https://www.linkedin.com/in/rahmat-fajri-b98766187" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
