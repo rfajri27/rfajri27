@@ -15,7 +15,7 @@ I'm a fresh graduate from Brawijaya University, majoring in Computational Physic
 - [Customer Segmentation](https://github.com/rfajri27/customer_segmentation)
 
 ## 📃 Latest Articles
-- [Machine Learning: Pengenalan Konsep](https://github.com/rfajri27/my_articles/tree/main/pengenalan_konsep)
+- [Machine Learning: Pengenalan Konsep]()
 
 ## 🔍 You Can Find Me at
 <p>
