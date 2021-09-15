@@ -8,11 +8,12 @@ I'm a fresh graduate from Brawijaya University, majoring in Computational Physic
 - 🌱 I'm currently learning more about Data Science and try to build [my portfolio](https://rfajri27.github.io/MyPortfolio/)
 
 ## ⚙ Latest Projects
-
-- [Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)
-- [Recommender System](https://github.com/rfajri27/recommender_system)
-- [Customer Churn Prediction](https://github.com/rfajri27/customer_churn)
-- [Customer Segmentation](https://github.com/rfajri27/customer_segmentation)
+|  | |
+| ----------- | ----------- |
+|[Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)|[Smart Webcam](https://github.com/rfajri27/smart_webcam)|
+|[Recommender System](https://github.com/rfajri27/recommender_system)|[Rock-Paper-Scissors Classifier](https://github.com/rfajri27/rock_paper_scissors)|
+|[Customer Churn Prediction](https://github.com/rfajri27/customer_churn)| |
+|[Customer Segmentation](https://github.com/rfajri27/customer_segmentation)| |
 
 ## 📃 Latest Articles
 - [Machine Learning: Pengenalan Konsep](https://github.com/rfajri27/my_articles/tree/main/pengenalan_konsep)
