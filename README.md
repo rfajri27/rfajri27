@@ -12,7 +12,7 @@ I'm a fresh graduate from Brawijaya University, majoring in Computational Physic
 | ----------- | ----------- |
 |[Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)|[Smart Webcam](https://github.com/rfajri27/smart_webcam)(ongoing)|
 |[Recommender System](https://github.com/rfajri27/recommender_system)|[Rock-Paper-Scissors Classifier](https://github.com/rfajri27/rock_paper_scissors)(ongoing)|
-|[Customer Churn Prediction](https://github.com/rfajri27/customer_churn)| |
+|[Customer Churn Prediction](https://github.com/rfajri27/customer_churn)|[Face Mask Detection](https://github.com/rfajri27/face_mask_detection)(ongoin)|
 |[Customer Segmentation](https://github.com/rfajri27/customer_segmentation)| |
 
 ## 📃 Latest Articles
