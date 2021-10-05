@@ -1,6 +1,6 @@
 #  Hi there, I'm Fajri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-I'm a fresh graduate from Brawijaya University, majoring in Computational Physics. 
+I'm a curriculum developer at Dicoding Indonesia. 
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - 🔭 I'm Graduated from Bangkit 2021 Program specializing in Machine Learning.
