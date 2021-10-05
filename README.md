@@ -16,7 +16,7 @@ I'm a curriculum developer at Dicoding Indonesia.
 |[Customer Segmentation](https://github.com/rfajri27/customer_segmentation)| |
 
 ## 📃 Latest Articles
-- [Machine Learning: Pengenalan Konsep]()
+- [Machine Learning: Pengenalan Konsep](https://github.com/rfajri27/my_articles/tree/main/pengenalan_konsep)
 
 ## 🔍 You Can Find Me at
 <p>
