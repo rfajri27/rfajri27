@@ -4,8 +4,8 @@ I'm a curriculum developer at Dicoding Indonesia.
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - 🔭 I'm Graduated from Bangkit 2021 Program specializing in Machine Learning.
-- ⚡ [TensorFlow Developer Certified](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36492625)
-- 🌱 I'm currently learning more about Data Science and try to build [my portfolio](https://rfajri27.github.io/MyPortfolio/)
+- <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36492625" target="_blank"> TensorFlow Developer Certified</a>
+- 🌱 I'm currently learning more about Data Science and Deep Learning
 
 ## ⚙ Latest Projects
 |  | |
@@ -16,7 +16,7 @@ I'm a curriculum developer at Dicoding Indonesia.
 |[Customer Segmentation](https://github.com/rfajri27/customer_segmentation)| |
 
 ## 📃 Latest Articles
-- [Machine Learning: Pengenalan Konsep](https://github.com/rfajri27/my_articles/tree/main/pengenalan_konsep)
+- [Machine Learning: Pengenalan Konsep]()
 
 ## 🔍 You Can Find Me at
 <p>
