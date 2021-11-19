@@ -16,8 +16,6 @@ I'm a curriculum developer at Dicoding Indonesia.
 |[Customer Churn Prediction](https://github.com/rfajri27/customer_churn)||
 |[Customer Segmentation](https://github.com/rfajri27/customer_segmentation)| |
 
-## 📃 Latest Articles
-- [Machine Learning: Pengenalan Konsep]()
 
 ## 🔍 You Can Find Me at
 <p>
