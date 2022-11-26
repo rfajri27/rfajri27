@@ -5,16 +5,17 @@ I'm a curriculum developer at Dicoding Indonesia.
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm Graduated from Bangkit 2021 Program specializing in Machine Learning.
 - <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36492625" target="_blank"> TensorFlow Developer Certified</a>
-- 🔭 I'm currently learning more about Data Science and Deep Learning
+- 🔭 I'm currently explore machine learning development and operation in a production setting.
 - 🌱 **"from zero to at least not zero"**
 
 ## ⚙ Latest Projects
 |  | |
 | ----------- | ----------- |
-|[Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)|[Rock-Paper-Scissors Classifier](https://github.com/rfajri27/rock_paper_scissors)(ongoing)|
-|[Recommender System](https://github.com/rfajri27/recommender_system)|[Face Mask Detection](https://github.com/rfajri27/face_mask_detection)(ongoin)|
+| [Skin Cancer Segmentation] (https://github.com/rfajri27/skin-cancer-segmentation) | |
+<!-- |[Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)|[Rock-Paper-Scissors Classifier](https://github.com/rfajri27/rock_paper_scissors)(ongoing)|
+|[Recommender System](https://github.com/rfajri27/recommender_system)|[Face Mask Detection](https://github.com/rfajri27/face_mask_detection)|
 |[Customer Churn Prediction](https://github.com/rfajri27/customer_churn)||
-|[Customer Segmentation](https://github.com/rfajri27/customer_segmentation)| |
+|[Customer Segmentation](https://github.com/rfajri27/customer_segmentation)| | -->
 
 
 ## 🔍 You Can Find Me at
