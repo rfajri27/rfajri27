@@ -12,7 +12,7 @@ I'm a curriculum developer at Dicoding Indonesia.
 | Projects | Description |
 | ----------- | ----------- |
 | [Build a Machine Learning Pipeline](https://github.com/rfajri27/ml-pipeline-for-bbc-dataset) | Machine learning pipeline built with TensorFlow Extended (TFX) and Apache Beam as a pipeline orchestrator in order to handle BBC dataset. |
-| Implement CI/CD on Machine Learning System | Deploying a Machine Learning Model on Heroku with FastAPI using CI/CD tools as GitHub Actions and Heroku Automatic Deployment. |
+| Implement CI/CD on Machine Learning System (on progress update) | Deploying a Machine Learning Model on Heroku with FastAPI using CI/CD tools as GitHub Actions and Heroku Automatic Deployment. |
 | [Skin Cancer Segmentation](https://github.com/rfajri27/skin-cancer-segmentation) | Implemented the U-net architecture model to segment the area of skin cancer. |
 <!-- |[Credit Risk Analysis](https://github.com/rfajri27/credit_risk_analysis)|[Rock-Paper-Scissors Classifier](https://github.com/rfajri27/rock_paper_scissors)(ongoing)|
 |[Recommender System](https://github.com/rfajri27/recommender_system)|[Face Mask Detection](https://github.com/rfajri27/face_mask_detection)|
