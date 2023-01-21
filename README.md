@@ -23,7 +23,7 @@ I'm a curriculum developer at Dicoding Indonesia.
 
 ## 🔍 You Can Find Me at
 <p>
-  <a href="https://www.linkedin.com/in/rahmat-fajri-b98766187" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/rfajri912/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://www.kaggle.com/rahmatfajri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://www.instagram.com/rfajri255/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
