@@ -1,6 +1,6 @@
 #  Hi there, I'm Fajri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-I'm a curriculum developer at Dicoding Indonesia. 
+I'm a data & machine learning engineer at PT Pupuk Indonesia (Persero). 
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm Graduated from Bangkit 2021 Program specializing in Machine Learning.
