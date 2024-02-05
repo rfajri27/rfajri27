@@ -31,20 +31,23 @@ I'm a data & machine learning engineer at PT Pupuk Indonesia (Persero).
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Fajri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rfajri27&show_icons=true&theme=calm" />
-
-</details>
+<img align="left" alt="Fajri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rfajri27&show_icons=true&theme=calm" />
 
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Fajri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfajri27&show_icons=true&theme=calm" />
+<img align="left" alt="Fajri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfajri27&show_icons=true&theme=calm" />
 
-</details>
+
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-blue?style=flat-square&logo=Kubeflow)
+![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=Pandas)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <!---
 rfajri27/rfajri27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
