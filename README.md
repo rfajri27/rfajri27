@@ -35,11 +35,13 @@ I'm a data & machine learning engineer at PT Pupuk Indonesia (Persero).
 
 <img align="left" alt="Fajri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rfajri27&show_icons=true&theme=calm" />
 
+<br />
 
 <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Fajri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfajri27&show_icons=true&theme=calm" />
 
+<br />
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
